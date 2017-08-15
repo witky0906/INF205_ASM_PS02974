@@ -1,0 +1,46 @@
+C:\Users\NTLUAN\AppData\Local\Temporary Projects\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe.config
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe.config
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.pdb
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.xml
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.vbprojResolveAssemblyReference.cache
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.Resources.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.vbproj.GenerateResource.Cache
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.exe
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.xml
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.pdb
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmDangNhap.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmTrangChu.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.FrmKhachHang.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmSanPham.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.FrmHoaDon.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe.config
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.exe
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.xml
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.pdb
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.pdb
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.xml
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.vbprojResolveAssemblyReference.cache
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmDangNhap.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.FrmHoaDon.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmSanPham.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmTrangChu.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.FrmKhachHang.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.Resources.resources
+C:\Users\NTLUAN\Desktop\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.vbproj.GenerateResource.Cache
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe.config
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.exe
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.xml
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.pdb
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.exe
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.pdb
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\bin\Debug\QLBanHang_PS02974.xml
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.vbprojResolveAssemblyReference.cache
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmDangNhap.resources
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.FrmHoaDon.resources
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmSanPham.resources
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.frmTrangChu.resources
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.FrmKhachHang.resources
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.Resources.resources
+E:\FPT-Poly\Điện toán đám mây\QLBanHang_PS02974\QLBanHang_PS02974\QLBanHang_PS02974\obj\Debug\QLBanHang_PS02974.vbproj.GenerateResource.Cache
